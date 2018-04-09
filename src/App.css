@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height:100%;
+}
+a{
+  text-decoration: none;
+  color:#000;
+}
+.Header{
+  
+} 
+.cont{
+  flex:1
+}
+.Footer{
+  width: 100%;
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.Footer a{
+  flex:1;
+  color:#666;
+  cursor: pointer;
+}
+.Home{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height:100%;
+  overflow: hidden;
+}

@@ -1,0 +1,1 @@
+export const GET_TABLE_JSON = 'GET_TABLE_JSON'

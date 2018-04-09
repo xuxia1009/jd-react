@@ -1,0 +1,7 @@
+export const SHOPC='/api/list'
+export const HOME_LIST='/api/hb-newsy'
+export const FOOD_LIST='/api/hd-food'
+export const FRUIT_LIST='/api/hd-fruit'
+export const MILK_LIST='/api/hb-milk'
+export const SC_LIST='/api/hb-sc'
+export const TABLE_LIST = '/api/tablejson'

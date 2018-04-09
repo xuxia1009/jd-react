@@ -1,0 +1,1 @@
+export const SHOPC='GET_SHOPC'

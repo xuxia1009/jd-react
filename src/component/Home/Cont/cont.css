@@ -1,0 +1,30 @@
+.cont_list {
+    flex:1;
+    overflow-y: scroll;
+}
+.list_img>h4{
+    width: 100%;
+    height: 30px;
+    font-size: 20px;
+    text-align: center;
+    line-height: 30px;
+    margin: 0;
+    padding: 0;
+}
+.list_img dl{
+    width: 100%;
+    height: 150px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.list_img dt{
+    flex:4;
+}
+.list_img dt img{
+    width: 110px;
+    height: 110px;
+}
+.list_img dd {
+    flex: 6;
+}
